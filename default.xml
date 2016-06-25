@@ -4,7 +4,7 @@
   <remote  name="aosp"
            fetch="https://android.googlesource.com"
            review="android-review.googlesource.com"
-           revision="refs/tags/android-5.1.1_r33" />
+           revision="refs/tags/android-5.1.1_r37" />
 
   <remote  name="github"
            fetch=".."
@@ -639,7 +639,6 @@
   <!--  <project path="vendor/moto/shamu" name="pjgraber03/vendor_moto_shamu" remote="github" revision="5.1" /> -->
   <project path="vendor/xiaomi" name="TeamBliss-Devices/proprietary_vendor_xiaomi" remote="github" revision="lp5.1" />
   <!--Additional Repos-->
-  <project name="frap129/x86_64-linux-glibc-2.20-4.8" path="prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.20-4.8" remote="github" revision="master" />
   <project name="TeamBliss-Devices/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lp5.1" />
   <project name="CyanogenMod/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="cm-12.1" />
 
