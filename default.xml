@@ -486,32 +486,32 @@
   <project path="packages/apps/Provision" name="CyanogenMod/android_packages_apps_Provision" />
   <project path="packages/apps/Settings" name="TeamBliss-LP/android_packages_apps_Settings" remote="github" revision="lp5.1" />
   <project path="packages/apps/SmartCardService" name="CyanogenMod/android_packages_apps_SmartCardService" />
-	<!--	<project path="packages/apps/AudioFX" name="TeamBliss-LP/android_packages_apps_AudioFX" remote="github" revision="lp5.1" />
-		<project path="packages/apps/CMWallpapers" name="CyanogenMod/android_packages_apps_CMWallpapers" />
-		<project path="packages/apps/Eleven" name="CyanogenMod/android_packages_apps_Eleven" />
-		<project path="packages/apps/Email" name="CyanogenMod/android_packages_apps_Email" />
-		<project path="packages/apps/Exchange" name="CyanogenMod/android_packages_apps_Exchange" />
-		<project path="packages/apps/LockClock" name="TeamBliss-LP/android_packages_apps_LockClock" remote="github" revision="lp5.1" />
-		<project path="packages/apps/ManagedProvisioning" name="CyanogenMod/android_packages_apps_ManagedProvisioning" />
-		<project path="packages/apps/Profiles" name="CyanogenMod/android_packages_apps_Profiles" />
-		<project path="packages/apps/SoundRecorder" name="CyanogenMod/android_packages_apps_SoundRecorder" />
-		<project path="packages/apps/SpeechRecorder" name="CyanogenMod/android_packages_apps_SpeechRecorder" />
-		<project path="packages/apps/Stk" name="CyanogenMod/android_packages_apps_Stk" />
-		<project path="packages/apps/Tag" name="CyanogenMod/android_packages_apps_Tag" />
-		<project path="packages/apps/Terminal" name="CyanogenMod/android_packages_apps_Terminal" />
-		<project path="packages/apps/UnifiedEmail" name="CyanogenMod/android_packages_apps_UnifiedEmail" />
-		<project path="packages/wallpapers/Basic" name="CyanogenMod/android_packages_wallpapers_Basic" />
-		<project path="packages/wallpapers/Galaxy4" name="CyanogenMod/android_packages_wallpapers_Galaxy4" />
-		<project path="packages/wallpapers/HoloSpiral" name="CyanogenMod/android_packages_wallpapers_HoloSpiral" />
-		<project path="packages/wallpapers/LivePicker" name="CyanogenMod/android_packages_wallpapers_LivePicker" />
-		<project path="packages/wallpapers/MagicSmoke" name="CyanogenMod/android_packages_wallpapers_MagicSmoke" />
-		<project path="packages/wallpapers/MusicVisualization" name="CyanogenMod/android_packages_wallpapers_MusicVisualization" />
-		<project path="packages/wallpapers/NoiseField" name="CyanogenMod/android_packages_wallpapers_NoiseField" />
-		<project path="packages/wallpapers/PhaseBeam" name="CyanogenMod/android_packages_wallpapers_PhaseBeam" />
-		<project path="packages/wallpapers/PhotoPhase" name="CyanogenMod/android_packages_wallpapers_PhotoPhase" />
-		<project path="packages/screensavers/Basic" name="CyanogenMod/android_packages_screensavers_Basic" />
-		<project path="packages/screensavers/PhotoTable" name="CyanogenMod/android_packages_screensavers_PhotoTable" />
-		<project path="packages/screensavers/WebView" name="CyanogenMod/android_packages_screensavers_WebView" />	-->
+  <project path="packages/apps/AudioFX" name="TeamBliss-LP/android_packages_apps_AudioFX" remote="github" revision="lp5.1" />
+  <project path="packages/apps/CMWallpapers" name="CyanogenMod/android_packages_apps_CMWallpapers" />
+  <project path="packages/apps/Eleven" name="CyanogenMod/android_packages_apps_Eleven" />
+  <project path="packages/apps/Email" name="CyanogenMod/android_packages_apps_Email" />
+  <project path="packages/apps/Exchange" name="CyanogenMod/android_packages_apps_Exchange" />
+  <project path="packages/apps/LockClock" name="TeamBliss-LP/android_packages_apps_LockClock" remote="github" revision="lp5.1" />
+  <project path="packages/apps/ManagedProvisioning" name="CyanogenMod/android_packages_apps_ManagedProvisioning" />
+  <project path="packages/apps/Profiles" name="CyanogenMod/android_packages_apps_Profiles" />
+  <project path="packages/apps/SoundRecorder" name="CyanogenMod/android_packages_apps_SoundRecorder" />
+  <project path="packages/apps/SpeechRecorder" name="CyanogenMod/android_packages_apps_SpeechRecorder" />
+  <project path="packages/apps/Stk" name="CyanogenMod/android_packages_apps_Stk" />
+  <project path="packages/apps/Tag" name="CyanogenMod/android_packages_apps_Tag" />
+  <project path="packages/apps/Terminal" name="CyanogenMod/android_packages_apps_Terminal" />
+  <project path="packages/apps/UnifiedEmail" name="CyanogenMod/android_packages_apps_UnifiedEmail" />
+  <project path="packages/wallpapers/Basic" name="CyanogenMod/android_packages_wallpapers_Basic" />
+  <project path="packages/wallpapers/Galaxy4" name="CyanogenMod/android_packages_wallpapers_Galaxy4" />
+  <project path="packages/wallpapers/HoloSpiral" name="CyanogenMod/android_packages_wallpapers_HoloSpiral" />
+  <project path="packages/wallpapers/LivePicker" name="CyanogenMod/android_packages_wallpapers_LivePicker" />
+  <project path="packages/wallpapers/MagicSmoke" name="CyanogenMod/android_packages_wallpapers_MagicSmoke" />
+  <project path="packages/wallpapers/MusicVisualization" name="CyanogenMod/android_packages_wallpapers_MusicVisualization" />
+  <project path="packages/wallpapers/NoiseField" name="CyanogenMod/android_packages_wallpapers_NoiseField" />
+  <project path="packages/wallpapers/PhaseBeam" name="CyanogenMod/android_packages_wallpapers_PhaseBeam" />
+  <project path="packages/wallpapers/PhotoPhase" name="CyanogenMod/android_packages_wallpapers_PhotoPhase" />
+  <project path="packages/screensavers/Basic" name="CyanogenMod/android_packages_screensavers_Basic" />
+  <project path="packages/screensavers/PhotoTable" name="CyanogenMod/android_packages_screensavers_PhotoTable" />
+  <project path="packages/screensavers/WebView" name="CyanogenMod/android_packages_screensavers_WebView" />
   <project path="packages/apps/ThemeChooser" name="CyanogenMod/android_packages_apps_ThemeChooser" />
   <project path="packages/apps/Trebuchet" name="CyanogenMod/android_packages_apps_Trebuchet" />
   <project path="packages/apps/TvSettings" name="CyanogenMod/android_packages_apps_TvSettings" />
