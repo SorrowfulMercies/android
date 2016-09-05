@@ -625,7 +625,7 @@
   <project path="vendor/samsung" name="SorrowfulMercies/proprietary_vendor_samsung" remote="github" revision="cm-12.1" />
 
   <!--Additional Repos-->
-  <project name="CyanogenMod/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-12.1" />
+  <project name="SorrowfulMercies/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-12.1" />
   <project name="CyanogenMod/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="cm-12.1" />
 
   <!-- SABERMOD ROM TOOLCHAINS -->
