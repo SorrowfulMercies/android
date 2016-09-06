@@ -355,7 +355,7 @@
   <project path="external/zip" name="CyanogenMod/android_external_zip" />
   <project path="external/zopfli" name="platform/external/zopfli" groups="pdk-cw-fs" remote="aosp" />
   <project path="external/zxing" name="platform/external/zxing" groups="pdk-cw-fs" remote="aosp" />
-  <project path="frameworks/av" name="TeamBliss-LP/android_frameworks_av" groups="pdk" remote="github" revision="lp5.1" />
+  <project path="frameworks/av" name="SorrowfulMercies/android_frameworks_av" groups="pdk" remote="github" revision="lp5.1" />
   <project path="frameworks/base" name="TeamBliss-LP/android_frameworks_base" remote="github" revision="lp5.1" />
   <project path="frameworks/compile/libbcc" name="CyanogenMod/android_frameworks_compile_libbcc" groups="pdk" />
   <project path="frameworks/compile/mclinker" name="CyanogenMod/android_frameworks_compile_mclinker" groups="pdk" />
