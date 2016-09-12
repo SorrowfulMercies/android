@@ -623,22 +623,25 @@
   <project path="vendor/samsung" name="SorrowfulMercies/proprietary_vendor_samsung" remote="github" revision="cm-12.1" />
 
   <!--Additional Repos-->
+  <project name="SorrowfulMercies/x86_64-linux-glibc-2.20-4.8" path="prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.20-4.8" remote="github" revision="master" />
   <project name="SorrowfulMercies/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-12.1" />
   <project name="CyanogenMod/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="cm-12.1" />
 
   <!-- SABERMOD ROM TOOLCHAINS -->
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8-sm" name="infected-lp/sm_arm-linux-androideabi-4.8.x" remote="github" revision="master" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9-sm" name="infected-lp/sm_arm-linux-androideabi-4.9.x" remote="github" revision="master" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-5.1-sm" name="TeamBliss-LP/arm-linux-androideabi-5.1" remote="github" revision="master" />
 
   <!-- SAMBERMOD KERNEL TOOLCAHINS -->
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8-sm" name="infected-lp/sm_arm-eabi-4.8.x" remote="github" revision="master" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.9-sm" name="infected-lp/sm_arm-eabi-4.9.x" remote="github" revision="master" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-5.1-sm" name="TeamBliss-LP/arm-eabi-5.1" remote="github" revision="master" />
   
    <!-- LINARO ROM TOOLCHAINS -->
-  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8-linaro" name="UBERTC/arm-linux-androideabi-4.8" remote="bitbucket" revision="master" />
-  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9-linaro" name="UBERTC/arm-linux-androideabi-4.9" remote="bitbucket" revision="master" />
-
+  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9-linaro" name="DespairFactor/arm-linux-androideabi-4.9" remote="bitbucket" revision="master" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-5.X-linaro" name="DespairFactor/arm-linux-androideabi-5.X" remote="bitbucket" revision="master" / -->
+  
   <!-- LINARO KERNEL TOOLCHAINS -->
-  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8-linaro" name="UBERTC/arm-eabi-4.8" remote="bitbucket" revision="master" />
-  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.9-linaro" name="UBERTC/arm-eabi-4.9" remote="bitbucket" revision="master" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.9-linaro" name="DespairFactor/arm-eabi-4.9" remote="bitbucket" revision="master" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-5.X-linaro" name="DespairFactor/arm-eabi-5.X" remote="bitbucket" revision="master" />
 </manifest>
