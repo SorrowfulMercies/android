@@ -638,10 +638,11 @@
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-5.1-sm" name="TeamBliss-LP/arm-eabi-5.1" remote="github" revision="master" />
   
    <!-- LINARO ROM TOOLCHAINS -->
-  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" name="DespairFactor/arm-linux-androideabi-4.9" remote="bitbucket" revision="master" />
-  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-5.X" name="DespairFactor/arm-linux-androideabi-5.X" remote="bitbucket" revision="master" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8-linaro" name="UBERTC/arm-linux-androideabi-4.8" remote="bitbucket" revision="master" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9-linaro" name="UBERTC/arm-linux-androideabi-4.9" remote="bitbucket" revision="master" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-5.3-linaro" name="UBERTC/arm-linux-androideabi-5.3" remote="bitbucket" revision="master" / -->
   
   <!-- LINARO KERNEL TOOLCHAINS -->
-  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.9" name="DespairFactor/arm-eabi-4.9" remote="bitbucket" revision="master" />
-  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-5.X" name="DespairFactor/arm-eabi-5.X" remote="bitbucket" revision="master" />
-</manifest>
+  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8-linaro" name="UBERTC/arm-eabi-4.8" remote="bitbucket" revision="master" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.9-linaro" name="UBERTC/arm-eabi-4.9" remote="bitbucket" revision="master" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-5.3-linaro" name="UBERTC/arm-eabi-5.3" remote="bitbucket" revision="master" />
