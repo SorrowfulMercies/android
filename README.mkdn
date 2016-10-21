@@ -6,10 +6,17 @@ Getting Started
 To get started with Android/BlissPop, you'll need to get
 familiar with [Git and Repo](http://source.android.com/source/using-repo.html).
 
+Setting up build environment: http://forum.xda-developers.com/showthread.php?t=2639611
+
+Fix lzma build error: 
+
+    sudo apt-get install python-dev 
+    https://github.com/SorrowfulMercies/backports.lzma
+    
 To initialize your local repository using the BlissPop trees, use this command:
 
-
     repo init -u https://github.com/SorrowfulMercies/android.git -b lp5.1
+    
 
 Then to sync up:
 
