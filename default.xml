@@ -478,7 +478,7 @@
   <project path="packages/apps/HTMLViewer" name="CyanogenMod/android_packages_apps_HTMLViewer" />
   <project path="packages/apps/InCallUI" name="TeamBliss-LP/android_packages_apps_InCallUI" remote="github" revision="lp5.1" />
   <project path="packages/apps/KeyChain" name="CyanogenMod/android_packages_apps_KeyChain" />
-  <project path="packages/apps/Mms" name="CyanogenMod/android_packages_apps_Mms-caf" remote="github" revision="cm-12.1" />
+  <project path="packages/apps/Mms" name="CyanogenMod/android_packages_apps_Mms-caf" remote="github" revision="stable/cm-12.1-YOG7D" />
   <project path="packages/apps/Nfc" name="CyanogenMod/android_packages_apps_Nfc" remote="github" revision="cm-12.1" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" remote="aosp" />
   <project path="packages/apps/PackageInstaller" name="DirtyUnicorns/android_packages_apps_PackageInstaller" remote="github" revision="lollipop" />
