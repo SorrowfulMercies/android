@@ -528,7 +528,7 @@
   <project path="packages/providers/ThemesProvider" name="CyanogenMod/android_packages_providers_ThemesProvider" />
   <project path="packages/providers/TvProvider" name="CyanogenMod/android_packages_providers_TvProvider" />
   <project path="packages/providers/UserDictionaryProvider" name="CyanogenMod/android_packages_providers_UserDictionaryProvider" />
-  <project path="packages/services/Mms" name="CyanogenMod/android_packages_services_Mms" />
+  <project path="packages/services/Mms" name="CyanogenMod/android_packages_services_Mms" revision="stable/cm-12.1-YOG7D" />
   <project path="packages/services/Telecomm" name="CyanogenMod/android_packages_services_Telecomm" remote="github" revision="cm-12.1" />
   <project path="packages/services/Telephony" name="TeamBliss-LP/android_packages_services_Telephony" remote="github" revision="lp5.1" />
   <project path="pdk" name="platform/pdk" groups="pdk" remote="aosp" />
